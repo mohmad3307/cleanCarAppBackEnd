@@ -8,7 +8,6 @@ public class CleanAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CleanAppApplication.class, args);
-
 	}
 
 }
